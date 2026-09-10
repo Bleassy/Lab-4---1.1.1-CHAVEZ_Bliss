@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-10 10:31:49</sys_created_on>
+        <sys_id>540040f0c39f07903609b523e401314c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2011953_compan_0_company_hosted_event.x_2011953_compan_0.admin</sys_name>
+        <sys_package display_value="Company Hosted Events" source="x_2011953_compan_0">770e33ecc35f07903609b523e40131b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Company Hosted Events">770e33ecc35f07903609b523e40131b1</sys_scope>
+        <sys_security_acl display_value="x_2011953_compan_0_company_hosted_event">500040f0c39f07903609b523e4013147</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_540040f0c39f07903609b523e401314c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-10 10:31:49</sys_updated_on>
+        <sys_user_role display_value="x_2011953_compan_0.admin" name="x_2011953_compan_0.admin">881e33ecc35f07903609b523e40131dd</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
